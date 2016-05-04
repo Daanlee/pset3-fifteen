@@ -1,0 +1,9 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0. 3x3 to 9x9 size grids are accepted.
+1. Two dimentional array of integers. (Square array)
+2. the function greet()
+3. init(), draw(), move() and won() 
